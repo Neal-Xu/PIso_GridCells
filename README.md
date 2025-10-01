@@ -16,8 +16,6 @@ Note:
 
 - The environment was tested with Python 3.10 and CUDA 12.4 (for GPU training).
 
-- If you only need CPU, installing PyTorch from the official PyTorch website with the appropriate version for your system may be sufficient.
-
 ## Train
 ```
 python train_model.py --rho 1 --size 0.5 --run 0
