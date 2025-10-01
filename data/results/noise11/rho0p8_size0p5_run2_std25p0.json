@@ -1,0 +1,8 @@
+{
+  "num_total": 32,
+  "num_active": 12,
+  "prop_active": 0.375,
+  "num_grid_like": 9,
+  "prop_grid_like_in_active": 0.75,
+  "mean_spacing_grid_like": 27.86623769161681
+}

@@ -1,0 +1,10 @@
+{
+  "num_total": 32,
+  "num_active": 14,
+  "prop_active": 0.4375,
+  "num_grid_like": 13,
+  "prop_grid_like_in_active": 0.9285714285714286,
+  "mean_spacing_grid_like": 30.145028876722783,
+  "rho_true_mean": 0.9016550779342651,
+  "rho_true_std": 0.08118005841970444
+}
