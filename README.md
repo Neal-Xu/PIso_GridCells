@@ -40,6 +40,6 @@ python analyze_cell.py
 
 ## Acknowledgments
 
-Our implementation was partly adapted from the publicly available code of Pettersen et al. (2024) [Github repo](https://github.com/bioAI-Oslo/GridsWithoutPI), licensed under the MIT License. We thank the authors for releasing their code. 
+The implementation was developed primarily by Fei Song, based on the framework of Pettersen et al. (2024) [Github repo](https://github.com/bioAI-Oslo/GridsWithoutPI), with extensions and modifications by Maoshen Xu, licensed under the MIT License. We thank the authors for releasing their code. 
 On top of their framework, we explicitly enforced toroidal population activity, introduced the torus-size regularization and systematically explored its interaction with conformal isometry loss.
 
