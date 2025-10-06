@@ -1,5 +1,10 @@
 # THE PRINCIPLE OF ISOMORPHISM: A THEORY OF POPULATION ACTIVITY IN GRID CELLS AND BEYOND
 
+Official implementation of [The Principle of Isomorphism: A Theory of Population Activity in Grid Cells and Beyond](https://doi.org/10.48550/arXiv.2510.02853)
+
+by Maoshen Xu, Fei Song, Yuxiu Shao, Bailu Si, Shanshan Qin.
+
+
 ## Environment setup
 
 We provide an `environment.yml` file to reproduce our experimental environment.  
